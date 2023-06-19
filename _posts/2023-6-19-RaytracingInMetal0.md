@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raytracing in Metal: Part 0 Intro
+title: Raytracing in Metal Part 0 Intro
 ---
 
 # Raytracing in Metal: Part 0 - Intro
