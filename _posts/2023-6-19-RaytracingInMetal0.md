@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Raytracing in Metal Part 0 Intro
+title: Raytracing in Metal Part 0 - Intro
 ---
-
-# Raytracing in Metal: Part 0 - Intro
 
 GPU raytracing can be a fairly opaque and difficult field to understand for the novice. If you are not highly versed in the algorithms of light transport or a seasoned pro at a particular graphics API, trying to get your head around everything at once can feel a bit like drinking from a fire-hose.
 
